@@ -14,7 +14,7 @@ A Python implementation of the WINGS for multi-criteria decision-making, based o
 ## 📋 Table of Contents
 - [Overview WINGS](#Overview-WINGS)
 - [Step-by-Step Guide](#Step-by-Step Guide)
-- [Citation](#citation)
+- [Citation](#📚 Citation)
 
 ### Overview-WINGS
 The WINGS (Weighted Influence Non-linear Gauge System) method is a decision-making tool that helps analyze complex systems with interrelated components. This platform allows you to perform WINGS analysis using either linguistic terms or direct numerical values.
