@@ -13,8 +13,6 @@ A Python implementation of the WINGS for multi-criteria decision-making, based o
 
 ## 📋 Table of Contents
 - [Overview WINGS](#Overview-WINGS)
-- [Step-by-Step Guide](#Step-by-Step Guide)
-- [Citation](#📚 Citation)
 
 ### Overview-WINGS
 The WINGS (Weighted Influence Non-linear Gauge System) method is a decision-making tool that helps analyze complex systems with interrelated components. This platform allows you to perform WINGS analysis using either linguistic terms or direct numerical values.
@@ -58,6 +56,7 @@ The WINGS (Weighted Influence Non-linear Gauge System) method is a decision-maki
 -Relation (r-c):
 -Positive values indicate a component is a Cause (influences others more than it's influenced)
 -Negative values indicate a component is an Effect (is influenced more than it influences others)
+
 ### Tips for Effective Use
 -Start with a small number of components to understand the method
 -Use descriptive names for components to make interpretation easier
@@ -65,10 +64,10 @@ The WINGS (Weighted Influence Non-linear Gauge System) method is a decision-maki
 -Review the flowchart to verify your inputs match your mental model of the system
 
 
-### 📚 Citation ###
+## 📚 Citation ##
 If you use this implementation in your research, please cite both the original paper and this software:
 
-### Original Paper: Michnik, J. (2013). Weighted Influence Non-linear Gauge System (WINGS)–An analysis method for the systems of interrelated components. European Journal of Operational Research, 228(3), 536-544..
-### Software Implementation: Moktadir, M.A. et.al. (2025). WINGS-Streamlit: A Python implementation of the Weighted Influence Non-linear Gauge Systemd. GitHub repository: [https://github.com/amoktadir/wings-streamlit](https://github.com/amoktadir/Weighted-Influence-Non-linear-Gauge-System-WINGS)
-
-The mathematical approach of the WINGS method can be found in the paper: https://doi.org/10.1016/j.ejor.2013.02.007
+# Original Paper: 
+Michnik, J. (2013). Weighted Influence Non-linear Gauge System (WINGS)–An analysis method for the systems of interrelated components. European Journal of Operational Research, 228(3), 536-544. https://doi.org/10.1016/j.ejor.2013.02.007
+# Software Implementation: 
+Moktadir, M.A. et.al. (2025). WINGS-Streamlit: A Python implementation of the Weighted Influence Non-linear Gauge Systemd. GitHub repository: [https://github.com/amoktadir/wings-streamlit](https://github.com/amoktadir/Weighted-Influence-Non-linear-Gauge-System-WINGS)
