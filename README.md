@@ -7,9 +7,7 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-3.7%2B-green.svg)
 ![Graphviz](https://img.shields.io/badge/graphviz-0.20.1-lightgrey.svg)
 ![python-docx](https://img.shields.io/badge/python--docx-0.8.11-blueviolet.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
-A Python implementation of the WINGS for multi-criteria decision-making, based on the research paper by Jerzy Michnik (2013). This interactive web application provides an intuitive interface for implementing wings with real-time analysis.
+![License](https://img.shields.io/badge/License-Apache-green.svg)
 
 ## 📋 Table of Contents
 - [Overview WINGS](#Overview-WINGS)
