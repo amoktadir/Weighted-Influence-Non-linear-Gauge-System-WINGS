@@ -69,7 +69,7 @@ The WINGS (Weighted Influence Non-linear Gauge System) method is a decision-maki
 -Review the flowchart to verify your inputs match your mental model of the system
 
 
-## 📚 Citation ##
+## Citation
 If you use this implementation in your research, please cite both the original paper and this software:
 
 ## Original Paper: 
