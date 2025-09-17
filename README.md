@@ -16,7 +16,7 @@ A Python implementation of the WINGS for multi-criteria decision-making, based o
 - [Step-by-Step Guide](#Step-by-Step-Guide)
 - [Input Models](#Input-Models)
 - [Understanding the Results](#Understanding-the-Results)
-- [Citation](#📚Citation)
+- [Citation](#Citation)
 
 
 ## Overview-WINGS
